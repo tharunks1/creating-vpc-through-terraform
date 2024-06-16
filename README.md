@@ -1,6 +1,6 @@
 # Terraform AWS Infrastructure
 
-This Terraform script sets up an AWS infrastructure for a project named "roboshop". It includes the following components:
+This Terraform script sets up an AWS  infrastructure for a project named "roboshop". It includes the following components:
 
 ## VPC (Virtual Private Cloud)
 - **Name:** roboshop-vpc
